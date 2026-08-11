@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+node_modules/
+*.tsbuildinfo
+.next/
+.vinext/
+.wrangler/
+coverage.xml
+htmlcov/
+models/*.onnx
+build/
+*.log
